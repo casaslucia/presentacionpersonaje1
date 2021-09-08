@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Poppins&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+main {
+	width:90%;
+	height: 720px;
+    background-color: #8686BC;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1280px;
+}
+
+body{
+	background-image: url(../img/fondo.jpg);
+}
+
+header {
+	float: left;
+	width: 100%;
+	height: 130px;
+	background-color: #C9C9F2;
+
+}
+
+nav{
+	width: 50%;
+    margin-left: 50%;
+	background-color: #C9C9F2;
+	height: 130px;
+}
+
+.logo{
+	float: left;
+	margin-left: 500px;
+	margin-top: 40px;
+}
+
+section{
+	width: 100%;
+	height: 540px;
+
+}
+
+#contenedor1{
+	float: left;
+	margin-top: 50px;
+	margin-left: 100px;
+	width: 300px;
+}
+.personalidad{
+	font-family: 'Fredoka One';
+	color: #E1E1FF;
+	font-size: 25px;
+	text-shadow: 2px 2px 8px black;
+}
+
+.txtpersonalidad{
+	font-family: 'Poppins', sans-serif;
+	color: #342665;
+	float: left;
+	margin-top: 10px;
+}
+
+.hobbies{
+	font-family: 'Fredoka One';
+	color: #E1E1FF;
+	font-size: 25px;
+	float: left;
+	margin-top: 30px;
+	text-shadow: 2px 2px 8px black;
+}
+.txthobbies{
+	font-family: 'Poppins', sans-serif;
+	color: #342665;
+	float: left;
+	margin-top: 10px;
+}
+
+.imghobbie1{
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.imghobbie2{
+	float: left;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+
+#contenedordora{
+	float: left;
+	margin-top: 50px;
+	margin-left: 90px;
+
+}
+
+#contenedor2{
+	float: right;
+	margin-top: 50px;
+	margin-right: 100px;
+	width: 300px;
+}
+
+
+.amigos{
+	font-family: 'Fredoka One';
+	color: #E1E1FF;
+	font-size: 25px;
+	float: left;
+	margin-top: 30px;
+	text-shadow: 2px 2px 8px black;
+}
+.txtamigos{
+	font-family: 'Poppins', sans-serif;
+	color: #342665;
+	float: right;
+	margin-top: 10px;
+}
+.amiga{
+	float: right;
+	margin-top: 20px;
+	margin-right: 50px;
+
+}
+
+
+.amigo{
+	float: right;
+	margin-top: 20px;
+	margin-right: 50px;
+
+}
+
+
+
+
+footer {
+	width: 100%;
+	height: 50px;
+    background-color: #C9C9F2;
+}
+#logonick{
+	margin-left: 30px;
+	margin-top: 10px;
+	float: left;
+}
+#logouces{
+	margin-right: 30px;
+	margin-top: 7px;
+	float: right;
+}
+#minombre p{
+	font-family: 'Poppins', sans-serif;
+	color: #59569E;
+	margin-right: 20px;
+	margin-top: 15px;
+	float: right;
+
+}
+
